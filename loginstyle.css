@@ -1,0 +1,10 @@
+/*------ login-box ------*/
+
+.col-2 {
+    display: block;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    flex: 1;
+    justify-content: space-around;
+}
